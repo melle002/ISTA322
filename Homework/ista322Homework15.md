@@ -7,13 +7,13 @@ Read chapter 15, pages 329 – 352 in the C# Step by Step book.
 #### Discussion Questions
 Answer the discussion questions in writing.
 ##### 1. What is the diﬀerence between a property and a ﬁeld?
-A property acts like a method
+A property acts like a method (properties have built in convience features)
 ##### 2. What is the diﬀerence between a property and a method?
-A property can only contain two blocks of code
+A method performs an action to get a value a property is like a method but contains the value itself
 ##### 3. What is your understanding of encapsulation?
 Keeping data private within the class
 ##### 4. Some languages are case insensitive, that is, an ‘a” and an “A” are considered to be the same letter. C# is case sensitive. What implications does this have regarding the naming of variables, methods, and other identiﬁers? Do you think that the diﬀerence in case in the initial character of two diﬀerent identiﬁers is suﬃcient to distinguish them?
-it depends. It is not a good idea worrying about interoperability because other languages do not distinguish in this way and interoperability would be non-existent
+it depends. It is not a good idea when worrying about interoperability because other languages do not distinguish in this way and interoperability would be non-existent
 ##### 5. Give an example that is not in the book of an instance where you might want to use a read-only property. Give an example not in the book of an instance where you might want to use s write-only property.
 read only property would be useful when it doesn't need to change as in a camparable value for testing purposes, Write only would be valuable for pin numbers or acct #s
 ##### 6. Can you think of a reason why you might ever want to make getters and setters private? Give an example. Also, make a case why getters and setters should never be private.
