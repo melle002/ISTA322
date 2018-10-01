@@ -13,10 +13,10 @@ Answer the discussion questions in writing.
 yes, opposite of the left
 
 ##### 3. Explain in detail this code: bits & (1 << index);.
- Access the first bit from the right
+ 
 
 ##### 4. Explain in detail this code: bits |= (1 << index);.
- 
+
 
 ##### 5. Explain in detail this code: bits &= (1 << index);.
 

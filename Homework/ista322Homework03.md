@@ -26,7 +26,7 @@ bi-drectional binding
 remove any dependencies on concrete classes by creating a class constructor that accepts an interface
 inject the dependencies by creating instances of it
 ##### 8. Give an example of loose coupling from your own life experience. This should be a simple, everyday example.
-It would be my job when executing critical tasks a a company. The FO calls for fire, The FDC computes data, and the gunline fires. We are losely coupled with a radio
+It would be my job when executing critical tasks as a batery. The FO calls for fire, The FDC computes data, and the gunline fires. We are losely coupled with a radio
 ##### 9. What are the two types of testing discussed in the book?
 unit testing and integration testing
 ##### 10. What are the seven steps of the test driven development (TDD) work flow, as stated in the book?
